@@ -6,3 +6,5 @@ The process for the setup is :
 4) Open terminal/cmd and navigate to the folder to which you want to save the repository.
 5)RUn the following command : -
 	git clone <<URL>>
+6) then run :
+	git pull
